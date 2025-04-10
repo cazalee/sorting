@@ -10,6 +10,8 @@
  Adaptive
  efficient for smaller data sets 
  Quadratic Runtime efficiency = 0(n**2)
+
+ <img width="853" alt="Image" src="https://github.com/user-attachments/assets/d3aa48c1-db00-4a25-b6f7-b9f0b7ec88f3" />
  
  # workings: 
  1. Split an array into two parts 
